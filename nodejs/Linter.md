@@ -49,3 +49,32 @@
     "singleQuote": true
   }
 ```
+- Setting Up Git Hooks
+
+    - `npm i -D husky lint-staged`
+    
+        in `package.json` add the script below
+
+        ``` json
+         "scripts": {
+            "lint": "eslint '**/*.js'",
+            "lint:fix": "npm run lint -- --fix"
+            },
+        "husky": {
+            "hooks": {
+              "pre-commit": "lint-staged",
+              "pre-push": "npm run lint"
+            }
+        },
+        "lint-staged": {
+            "*.js": [
+              "eslint --fix",
+              "git add"
+            ]
+        }
+        ```
+        if any problems with lint-staged use command below
+        
+        `npx mrm lint-staged`
+  
+    
