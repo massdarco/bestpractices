@@ -2,19 +2,19 @@
 best practices for applications development
 
 ## Nodejs Best Practices
-1. Projecet Structure
+1. Project Structure
 1. [Using Eslint and Prettier](../master/nodejs/Linter.md)
 1. Using grpc with async-await
 1. Testing
 
 
 ## React Best Practices
-1. Projecet Structure
+1. Project Structure
 1. Redux and Redux-saga
 1. Testing
 
 ## React-native Best Practices
-1. Projecet Structure
+1. Project Structure
 1. Testing
 
 ## Deployment Best Practices
