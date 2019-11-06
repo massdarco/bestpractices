@@ -3,7 +3,8 @@ best practices for applications development
 
 ## Nodejs Best Practices
 1. Project Structure
-1. [Using Eslint and Prettier](../master/nodejs/Linter.md)
+1. [Code style (eslint & prettier)](../master/nodejs/Linter.md)
+1. Naming Conventions (variables, functions, ...)
 1. Using grpc with async-await
 1. Testing
 1. Logging and Debugging
@@ -26,4 +27,8 @@ best practices for applications development
 1. Kubernetes
 1. CI/CD
 1. MongoDB Security
+
+
+# References
+1. [The largest Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)
 
