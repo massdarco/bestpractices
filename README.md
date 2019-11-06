@@ -3,7 +3,7 @@ best practices for applications development
 
 ## Nodejs Best Practices
 1. Projecet Structure
-1. [Using Eslint and Prettier](../blob/master/nodejs/Linter.md)
+1. [Using Eslint and Prettier](../master/nodejs/Linter.md)
 1. Using grpc with async-await
 1. Testing
 
