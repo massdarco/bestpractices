@@ -7,6 +7,7 @@ best practices for applications development
 1. Using grpc with async-await
 1. Testing
 1. Logging and Debugging
+1. Using Documentation generator tools
 
 
 ## React Best Practices
