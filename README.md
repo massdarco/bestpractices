@@ -13,6 +13,7 @@ best practices for applications development
 
 ## React Best Practices
 1. Project Structure
+1. Code style (eslint & prettier
 1. Redux and Redux-saga
 1. Testing
 1. Logging and Debugging
