@@ -33,3 +33,15 @@ best practices for applications development
 # References
 1. [The largest Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)
 
+### Contributors
+
+| **Commits** | **Contributor** | 
+| --- | --- |
+| 5 | [Massdar Co](https://github.com/massdarco) |
+| 7 | [Abdall Elsayed](https://github.com/aaami1ster) |
+| 4 | [Zainelabdeen Salah](https://github.com/ZainElabdeen) |
+
+### License
+
+Copyright © 2019, [Massdar Co](https://github.com/massdarco).
+Released under the [MIT License](LICENSE).
